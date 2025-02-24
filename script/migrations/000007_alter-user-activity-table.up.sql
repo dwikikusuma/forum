@@ -1,0 +1,1 @@
+ALTER TABLE user_activities ADD COLUMN is_saved BOOLEAN NOT NULL
